@@ -1,1 +1,0 @@
-# SortableCodingChallenge2015
